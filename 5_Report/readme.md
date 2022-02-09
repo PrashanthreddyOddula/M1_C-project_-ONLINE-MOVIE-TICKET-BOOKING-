@@ -9,8 +9,14 @@ It provides complete information regarding currently running movies on all the s
 Our online ticket reservation system is one of the best opportunities for those who cannot afford enough time to get their tickets reserved standing in long queues.            People can book tickets online anytime of day or night.
 Note: Our reservation system also provides the facility to cancel the tickets and provide refund.
 
-## Advantages
+## Benifits
 1.An online booking system will reduce no-show ups of customers.
 2.Online movie ticket booking means faster payments .
 3.Online booking reduces staff time.
+
+## Drawbacks
+1.	You need  internet access.
+2.	 Software glitch can cause u buy same ticket twice and then u have to contact Customer care and stress yourself for reversal.
+
+
 
