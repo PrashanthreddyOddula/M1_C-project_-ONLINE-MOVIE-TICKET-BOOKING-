@@ -1,6 +1,7 @@
 # Requirements
 ## Introduction
-  The aim of the project is to provide information of the MOVIE TICKET BOOKING SYTEM to a customer to book  the tickets.The project has been developed to carry out process easily and quickly.The system enables the user to Book tickets,Cancel tickets,View all booking records.
+The main objective of the Online Movie Ticket Booking System is to manage the details of Movie, Ticket, Customer , Show Timing, Audi. It manages all the information about Movie, Booking, Audi, Movie . The project is totally built at administrative end and thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the Movie, Ticket, Booking, Customer . It tracks all the details about the Customer, Show Timing, No.of tickets , cost , etc.
+  
 
 ## Research
 Cinemas help in contributing to our daily memories as they provide an essential part of our culture,going to cinemas has been the culture of almost all the families of today’s generation. It is a time when the family can spend some time altogether by stealing some hours from their busy schedule. Movie Ticket Booking System provides the customers facility to book tickets for a movie and to gather information about the movies and theaters.Customers can book ticket of his choice and may cancel a ticket.
