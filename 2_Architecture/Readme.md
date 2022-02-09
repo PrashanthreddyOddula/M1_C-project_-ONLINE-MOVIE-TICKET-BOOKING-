@@ -5,7 +5,7 @@
 ![Architecture](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/2_Architecture/highlevel.png)
 
 ## * Usecase Diagram
-![UsecaseDiagram](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/2_Architecture/Usecasehdl.png)
+![Usecase](https://user-images.githubusercontent.com/63446991/153229336-e13a8c0d-b00e-42d6-8e83-fafaf090816c.png)
 
 ## Low Level Design 
 ## * Level0
