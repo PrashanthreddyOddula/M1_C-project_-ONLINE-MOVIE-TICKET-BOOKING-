@@ -38,7 +38,7 @@ Movie Ticket Booking System have few inbuilt features like
     * Exit System.
    
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/prashanthreddy/online_Movie-Ticket-Booking-System/blob/main/1_Requirements/swot-analysis.PNG)
+![swot-analysis](https://user-images.githubusercontent.com/63446991/153223831-20fcf4ca-28c9-4bf6-9def-57cedf3291f5.png)
 
 ### 4W&#39;s and 1&#39;H
 
