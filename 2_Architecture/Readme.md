@@ -2,7 +2,7 @@
 
 ## High Level Design 
 ## * Architecture Design
-![Architecture](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/2_Architecture/highlevel.png)
+![highlevel](https://user-images.githubusercontent.com/63446991/153230842-8aa29803-75cf-498d-ae0c-6ad0ea7dbda9.png)
 
 ## * Usecase Diagram
 ![Usecase](https://user-images.githubusercontent.com/63446991/153229336-e13a8c0d-b00e-42d6-8e83-fafaf090816c.png)
