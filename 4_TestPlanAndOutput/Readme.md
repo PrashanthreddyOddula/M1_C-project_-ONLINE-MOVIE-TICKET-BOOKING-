@@ -12,3 +12,5 @@
 |  T_08|H_03| Change the price of ticket after login (only admin) | enter new price -price|Price Updated Successfully | Price Updated Successfully  | PASS |
 |  T_09|H_03|When wrong password is entered while Changing the price of ticket (only admin) | password | Entered Password is wrong  |  Entered Password is wrong |PASS |
 |  T_10|H_05|To view the reserved ticket |password| summary of ticket|summary of ticket | PASS |
+
+![Screenshot (86)](https://user-images.githubusercontent.com/63446991/153629655-d698ce2e-38c1-4d70-a05d-24764d4555ed.png)
