@@ -11,4 +11,4 @@
 |  T_07|H_03| Change the price of ticket (only admin) | password| Please enter new price | Please enter new price   | PASS |
 |  T_08|H_03| Change the price of ticket after login (only admin) | enter new price -price|Price Updated Successfully | Price Updated Successfully  | PASS |
 |  T_09|H_03|When wrong password is entered while Changing the price of ticket (only admin) | password | Entered Password is wrong  |  Entered Password is wrong |PASS |
-|  T_10|H_05|To view the reserved ticke |password| summary of tickeT|summary of ticket | PASS |
+|  T_10|H_05|To view the reserved ticket |password| summary of ticket|summary of ticket | PASS |
