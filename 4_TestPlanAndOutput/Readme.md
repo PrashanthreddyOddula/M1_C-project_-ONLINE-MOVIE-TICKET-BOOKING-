@@ -1,5 +1,5 @@
 # Test Plan And Test Output
-| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**PASS/FAIL**  |    
+| **Test ID** | **HLT ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**PASS/FAIL**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  T_01| Provide required details for login to book a ticket| pin| Successfully logined In | Successfully logined In| PASS |
 |  T_02| When wrong pin is entered| pin |  Login is unsuccesfull | Login is unsuccesfull | PASS |
