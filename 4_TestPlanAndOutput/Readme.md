@@ -10,4 +10,4 @@
 |  T_07|H_03| Change the price of ticket (only admin) | pin| Please enter new price | Please enter new price   | PASS |
 |  T_08|H_03|When wrong pin is entered while Changing the price of ticket (only admin) | pin | Entered  |  Entered pin is wrong |PASS |
 |  T_09|H_05|To view the reserved ticket |pin| summary of ticket|summary of ticket | PASS |
-|  
+ 
