@@ -1,12 +1,12 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<string.h>
-struct reserve
-{
-	char cod[30];
-	char nam[30];
-	char dat[30];
-	int price;
-	
 
-}x;
+#include <stdio.h>
+#include <stdlib.h>
+
+int i;
+struct films
+{
+    char mtitle[50];
+    float mrating;
+    char mhall[50];
+    int mfare;
+};
