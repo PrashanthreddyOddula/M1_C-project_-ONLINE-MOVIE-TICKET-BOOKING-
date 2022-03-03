@@ -5,6 +5,8 @@ This Project is aimed to developing an online ticket reservation system for a ci
 
 [![Build Linux](https://github.com/PrashanthreddyOddula/M1_ProjectType_-ONLINE-MOVIE-TICKET-BOOKING-UTIL/actions/workflows/Build.yml/badge.svg)](https://github.com/PrashanthreddyOddula/M1_ProjectType_-ONLINE-MOVIE-TICKET-BOOKING-UTIL/actions/workflows/Build.yml)
 
+[![CPP-Check](https://github.com/PrashanthreddyOddula/M1_ProjectType_-ONLINE-MOVIE-TICKET-BOOKING-UTIL/actions/workflows/CPP.yml/badge.svg)](https://github.com/PrashanthreddyOddula/M1_ProjectType_-ONLINE-MOVIE-TICKET-BOOKING-UTIL/actions/workflows/CPP.yml)
+
 ![code quality](https://api.codiga.io/project/31173/score/svg)
 
 ![code grade](https://api.codiga.io/project/31173/status/svg)
